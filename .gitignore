@@ -1,0 +1,12 @@
+# Private database credentials
+config.php
+.env
+
+# User-uploaded images
+uploads/*
+!uploads/.gitkeep
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db
